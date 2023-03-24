@@ -1,12 +1,12 @@
 # Learn 💥
 
-> 1) Learning Python Programming Language As Beginner. [Course](https://www.udemy.com/course/python-for-beginners-in-arabic-2023/)
+> 1) Learning C Programming Language As Beginner. [Course](https://www.udemy.com/course/c-for-beginners-in-arabic-2023/)
 ---
 
 <div align="center">
 <!-- Title: -->
-  <a href="https://www.udemy.com/course/python-for-beginners-in-arabic-2023/">
-    <img src="https://github.com/DevIA3kl/other/blob/master/more/Udemy_Py.png" height="250">
+  <a href="https://www.udemy.com/course/c-for-beginners-in-arabic-2023/">
+    <img src="https://github.com/DevIA3kl/other/blob/master/more/Udemy_C.jpg" height="250">
   </a>
   </div>
 <br><br>
@@ -106,70 +106,7 @@
   - [Time Module](Beginner/Lectures/63/)
 </details> 
 
-<details>
-<summary>Section 6</summary><br>
 
-  - [Threading](Beginner/Lectures/64/)
-  - [Daemon Threads](Beginner/Lectures/65/)
-  - [Multi Processing](Beginner/Lectures/66/)
-  - [GUI Windows](Beginner/Lectures/67/)
-  - [Labels](Beginner/Lectures/68/)
-  - [Buttons](Beginner/Lectures/69/)
-  - [EntryBox](Beginner/Lectures/70/)
-  - [CheckBox](Beginner/Lectures/71/)
-  - [Radio Button](Beginner/Lectures/72/)
-  - [Scale](Beginner/Lectures/73/)
-</details> 
-
-
-<details>
-<summary>Section 7</summary><br>
-
-  - [Listbox](Beginner/Lectures/74/)
-  - [MessageBox](Beginner/Lectures/75/)
-  - [Color Chooser](Beginner/Lectures/76/)
-  - [Text Area](Beginner/Lectures/77/)
-  - [Read a File Using Tk](Beginner/Lectures/78/)
-  - [Save a File Using Tk](Beginner/Lectures/79/)
-  - [Menubar](Beginner/Lectures/80/)
-  - [Frames](Beginner/Lectures/81/)
-  - [New Windows](Beginner/Lectures/82/)
-</details> 
-
-
-<details>
-<summary>Section 8</summary><br>
-
-  - [Window Taps](Beginner/Lectures/83/)
-  - [Grid](Beginner/Lectures/84/)
-  - [Progressbar](Beginner/Lectures/85/)
-  - [Canvas](Beginner/Lectures/86/)
-  - [Keyboard Events](Beginner/Lectures/87/)
-  - [Mouse Events](Beginner/Lectures/88/)
-  - [Drag and Drop](Beginner/Lectures/89/)
-  - [Move Images](Beginner/Lectures/90/)
-</details> 
-  
-
-<details>
-<summary>Section 9</summary><br>
-
-  - [Animations](Beginner/Lectures/91/)
-  - [Multiple Animations](Beginner/Lectures/92/)
-  - [Clock App](Beginner/Lectures/93/)
-  - [Send an Email](Beginner/Lectures/94/)
-  - [Run with CMD](Beginner/Lectures/95/)
-  - [Pip](Beginner/Lectures/96/)
-  - [Py to Exe](Beginner/Lectures/97/)
-  - [Calculator Program](Beginner/Lectures/98/)
-</details> 
-
-<details>
-<summary>Section 10</summary><br>
-
-  - [Text Editor](Beginner/Lectures/99/)
-  - [Snake Game](Beginner/Lectures/100/)
-</details> 
 
 </details>
 
