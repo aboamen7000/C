@@ -62,7 +62,7 @@
 
   - [Break and Continue](Beginner/Lectures/31/)
   - [Arrays](Beginner/Lectures/32/)
-  - [Print An Array with Lopp](Beginner/Lectures/33/)
+  - [Print An Array with Loop](Beginner/Lectures/33/)
   - [2D Arrays](Beginner/Lectures/34/)
   - [Array Of Strings](Beginner/Lectures/35/)
   - [Swape Values of two Variables](Beginner/Lectures/36/)
