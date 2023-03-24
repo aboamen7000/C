@@ -20,24 +20,24 @@
 <summary>Section 1</summary><br>
 
   - [know basics](Beginner/Lectures/0/)
-  - [print()](Beginner/Lectures/1/)
-  - [Variables](Beginner/Lectures/2/)
-  - [String Methods](Beginner/Lectures/3/)
-  - [Type Casting](Beginner/Lectures/4/)
-  - [User Input](Beginner/Lectures/5/)
-  - [Math Functions](Beginner/Lectures/6/)
-  - [String Slicing](Beginner/Lectures/7/)
-  - [If Statments](Beginner/Lectures/8/)
-  - [Logical Operators](Beginner/Lectures/9/)
-  - [While Loops](Beginner/Lectures/10/)
-  - [For Loops](Beginner/Lectures/11/)
-  - [Nested Loops](Beginner/Lectures/12/)
+  - [printf()](Beginner/Lectures/1/)
+  - [Comments and Escape Sequences](Beginner/Lectures/3/)
+  - [Variables](Beginner/Lectures/4/)
+  - [Data Types](Beginner/Lectures/5/)
+  - [Format Specifier](Beginner/Lectures/6/)
+  - [Constants](Beginner/Lectures/7/)
+  - [Arithmetic Operations](Beginner/Lectures/8/)
+  - [Augmented Assignment Operators](Beginner/Lectures/9/)
+  - [User Input](Beginner/Lectures/10/)
+  - [Math Functions](Beginner/Lectures/11/)
+  - [Circle Circumference Program](Beginner/Lectures/12/)
+  - [Hypotenuse Calculator Program](Beginner/Lectures/13/)
 </details>
 
 <details>
 <summary>Section 2</summary><br>
 
-  - [Loop Control Statments](Beginner/Lectures/13/)
+
   - [Lists](Beginner/Lectures/14/)
   - [2D Lists](Beginner/Lectures/15/)
   - [Tuples](Beginner/Lectures/16/)
