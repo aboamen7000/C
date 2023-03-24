@@ -86,6 +86,7 @@
 
 <details>
 <summary>Section 5</summary><br>
+  
   - [Memory Addresses](Beginner/Lectures/46/)
   - [Pointer](Beginner/Lectures/47/)
   - [Open a File](Beginner/Lectures/48/)
