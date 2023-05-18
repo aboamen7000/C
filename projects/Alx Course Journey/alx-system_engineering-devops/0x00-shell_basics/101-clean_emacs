@@ -1,0 +1,2 @@
+#!/bin/bash
+rm -r *~ #(* : mean all, rm delete file, -r: forced delete, rm *md: force delete all files which contain md in last of file name )

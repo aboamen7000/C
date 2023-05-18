@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -a -m -p -v #(-a: list all files and directories)(-m: spearated by comma)(-p: sort directories with slash )(-v: sort Digits)

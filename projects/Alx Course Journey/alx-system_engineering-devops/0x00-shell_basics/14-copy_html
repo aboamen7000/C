@@ -1,0 +1,2 @@
+#!/bin/bash
+cp *.html ../ -un  #(cp: copy, *.html: all the html tag extension, ../ parent direction, u : all the files, n: referral to null,- un: referal to copy all files from currently directory to parent which doen't found there)

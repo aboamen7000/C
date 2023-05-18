@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir${IFS}-p${IFS}welcome/to/school

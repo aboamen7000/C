@@ -1,0 +1,8 @@
+Mgc file constructor :
+0 string SCHOOL school data
+!:mime School
+
+creating mgc file : offset 0, called School
+to compile using : file -C -m <file.type>
+to run : file -m <file.type>
+--------
